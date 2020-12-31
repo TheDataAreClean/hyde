@@ -2,15 +2,4 @@
 title: test
 author: /cube/
 date: '2020-12-31'
-slug: []
-categories: []
-tags: []
-Categories:
-  - Development
-  - GoLang
-Description: ''
-Tags:
-  - Development
-  - golang
-menu: main
 ---
