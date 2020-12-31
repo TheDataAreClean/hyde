@@ -1,0 +1,26 @@
+theme = "hyde"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hyde"
+copyright = "MIT"
+licenselink = "https://github.com/TheDataAreClean/hyde/LICENSE.md"
+features = ["blog", "themes", "disqus"]
+
+[params]
+  description = "Thoughts of the alter ego."
+  copyright = "2020 | CC BY 4.0"
+
+[author]
+    name = "/cube/"
+    homepage = "https://thedataareclean.com"
+
+[Menus]
+  main = [
+      {Name = "About", URL = ""},
+      {Name = "Work", URL = "https://github.com/TheDataAreClean/"},
+  ]
+
+[original]
+    author =  "mdo"
+    homepage = "http://markdotto.com/"
+    repo = "https://www.github.com/mdo/hyde"
