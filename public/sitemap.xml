@@ -3,22 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hyding.netlify.app/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyding.netlify.app/post/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyding.netlify.app/post/2020-12-31-test/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hyding.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hyding.netlify.app/</loc>
   </url>
   
   <url>

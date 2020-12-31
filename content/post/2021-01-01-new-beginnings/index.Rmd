@@ -2,8 +2,13 @@
 title: New Beginnings !
 author: /cube/
 date: '2021-01-01'
-slug: 2021-01-01-new-beginnings
+slug: []
 categories: []
 tags: []
+Categories: []
 Description: ''
+Tags: []
+menu: ''
 ---
+
+Some text will go here..
