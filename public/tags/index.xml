@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Hyde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-in</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hyding.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>https://hyding.netlify.app/tags/development/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyding.netlify.app/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://hyding.netlify.app/tags/golang/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyding.netlify.app/tags/golang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
