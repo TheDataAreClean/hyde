@@ -1,6 +1,6 @@
 theme = "hyde"
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://hyding.netlify.app/"
+languageCode = "en-in"
 title = "Hyde"
 copyright = "MIT"
 licenselink = "https://github.com/TheDataAreClean/hyde/LICENSE.md"
