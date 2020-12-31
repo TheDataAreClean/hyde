@@ -2,9 +2,6 @@ theme = "hyde"
 baseURL = "https://hyding.netlify.app/"
 languageCode = "en-in"
 title = "Hyde"
-copyright = "MIT"
-licenselink = "https://github.com/TheDataAreClean/hyde/LICENSE.md"
-features = ["blog", "themes", "disqus"]
 
 [params]
   description = "Thoughts of the alter ego."
