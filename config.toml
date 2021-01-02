@@ -13,8 +13,8 @@ title = "Hyde"
 
 [Menus]
   main = [
-      {Name = "About", URL = ""},
-      {Name = "Work", URL = "https://github.com/TheDataAreClean/"},
+      {Name = "About", URL = "https://github.com/TheDataAreClean/"},
+      {Name = "Work", URL = "https://thedataareclean.com"},
   ]
 
 [original]
