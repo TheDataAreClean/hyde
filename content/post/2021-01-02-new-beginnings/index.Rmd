@@ -1,0 +1,10 @@
+---
+title: New Beginnings !
+author: /cube/
+date: '2021-01-02'
+slug: 2021-01-02-new-beginnings
+Categories: []
+Description: ''
+Tags: []
+menu: ''
+---
