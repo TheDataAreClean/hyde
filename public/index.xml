@@ -6,10 +6,19 @@
     <description>Recent content on Hyde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-in</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hyding.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How much of you is you ?</title>
+      <link>https://hyding.netlify.app/post/2021-01-10-how-much-you/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyding.netlify.app/post/2021-01-10-how-much-you/</guid>
+      <description>Are there days you just don’t identify with yourself? This person that you have become. The likes and dislikes you tell yourself and the world, your interests and your habits. Every last detail about you. None of it feels like you, it feels like a version of you that you adopted because it was the most convenient one. Or worse, capitalism convinced you that you are this person even though you end some days feeling disconnected with every part of or you.</description>
+    </item>
     
     <item>
       <title>New Beginnings !</title>
@@ -17,7 +26,8 @@
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://hyding.netlify.app/post/2021-01-02-new-beginnings/</guid>
-      <description>I will put my first micro blog here !</description>
+      <description>Hello everyone, welcome to my new microblog. A fancy way of saying this is a place where I write down my feelings that are may be a tad bit too touchy to hamper my employment opportunities. Then again, if a prospect employer is hurt by any of the content here, maybe I shouldn’t be working with them. &amp;lt;&amp;lt; makes mental note &amp;gt;&amp;gt;
+But coming back to the topic at hand, welcome to the microblog!</description>
     </item>
     
   </channel>
