@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hyde</title>
-    <link>https://hyding.netlify.app/tags/</link>
+    <link>https://hyde.thedataareclean.com/tags/</link>
     <description>Recent content in Tags on Hyde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-in</language>
     
-	<atom:link href="https://hyding.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hyde.thedataareclean.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -11,7 +11,7 @@ menu: ''
 
 ## A new tool is spotted in the wild !
 
-I love productivity tools. Correction, I am obsessed with productivity tools. To-Dos, Notes, Planners, all kinds. If there is a tool that was released, I have probably tried it, trying it right now and saving up time and money to do it soon. It's a problem, I am working on it. <--
+I love productivity tools. Correction, I am obsessed with productivity tools. To-Dos, Notes, Planners, all kinds. If there is a tool that was released, I have probably tried it, trying it right now and saving up time and money to do it soon. It's a problem, I am working on it.
 
 ## The Cycle of (percieved) Improvement
 
